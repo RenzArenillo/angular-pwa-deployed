@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1664433473718,
-  "index": "/index.html",
+  "timestamp": 1664434276605,
+  "index": "angular8-pm/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.0abf9bf0c2bea89b.js",
-        "/manifest.webmanifest",
-        "/polyfills.8719426b287c924b.js",
-        "/runtime.dea6a71da160cafe.js",
-        "/styles.ef46db3751d8e999.css"
+        "angular8-pm/favicon.ico",
+        "angular8-pm/index.html",
+        "angular8-pm/main.0abf9bf0c2bea89b.js",
+        "angular8-pm/manifest.webmanifest",
+        "angular8-pm/polyfills.8719426b287c924b.js",
+        "angular8-pm/runtime.dea6a71da160cafe.js",
+        "angular8-pm/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "angular8-pm/assets/icons/icon-128x128.png",
+        "angular8-pm/assets/icons/icon-144x144.png",
+        "angular8-pm/assets/icons/icon-152x152.png",
+        "angular8-pm/assets/icons/icon-192x192.png",
+        "angular8-pm/assets/icons/icon-384x384.png",
+        "angular8-pm/assets/icons/icon-512x512.png",
+        "angular8-pm/assets/icons/icon-72x72.png",
+        "angular8-pm/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "9d97e6dc99b931201ee7b82afe5450d4e17b375e",
-    "/main.0abf9bf0c2bea89b.js": "0b7a790b4967975a75767dae484f03bb2d0997e9",
-    "/manifest.webmanifest": "c4d2dafb9a097c9a41bef6a5d6c4f7fac92e03a2",
-    "/polyfills.8719426b287c924b.js": "3830b9a9b2a89f5dfc01da564bbfb1c64805f073",
-    "/runtime.dea6a71da160cafe.js": "a440adfe0fb38c8da1d069dd00429a0bd3245c1d",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "angular8-pm/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "angular8-pm/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "angular8-pm/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "angular8-pm/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "angular8-pm/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "angular8-pm/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "angular8-pm/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "angular8-pm/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "angular8-pm/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "angular8-pm/index.html": "594785380695103f0618c3bdb6afe4d77b82839c",
+    "angular8-pm/main.0abf9bf0c2bea89b.js": "0b7a790b4967975a75767dae484f03bb2d0997e9",
+    "angular8-pm/manifest.webmanifest": "c4d2dafb9a097c9a41bef6a5d6c4f7fac92e03a2",
+    "angular8-pm/polyfills.8719426b287c924b.js": "3830b9a9b2a89f5dfc01da564bbfb1c64805f073",
+    "angular8-pm/runtime.dea6a71da160cafe.js": "a440adfe0fb38c8da1d069dd00429a0bd3245c1d",
+    "angular8-pm/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
